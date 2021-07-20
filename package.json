@@ -1,0 +1,17 @@
+{
+  "name": "repro-sb-15632",
+  "version": "1.0.0",
+  "scripts": {
+    "storybook": "start-storybook -p 6006"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@storybook/addon-backgrounds": "^6.3.4",
+    "@storybook/react": "^6.3.4",
+    "babel-loader": "^8.2.2"
+  },
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
